@@ -40,10 +40,7 @@ class Deck:
 
     def deal_hand(self,r):
         return self._deal(r)
-    #     return c
+ 
 
 d = Deck()
-print(d)
-# print(d.cards)
-# #print(d.deal_card())
-# print(d.deal_hand(5))
+
